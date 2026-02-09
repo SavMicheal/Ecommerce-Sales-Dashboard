@@ -5,7 +5,7 @@ This project delivers an in-depth analysis of a global retail company’s sales 
 
 ---
 
-## Objectives
+### Objectives
 - Analyze sales performance across countries and cities  
 - Identify top-performing product categories and subcategories  
 - Understand customer purchasing behavior and demographics  
@@ -14,7 +14,7 @@ This project delivers an in-depth analysis of a global retail company’s sales 
 
 ---
 
-## Tools & Technologies
+### Tools & Technologies
 - **Microsoft Excel** – Dashboard design and analysis  
 - **Power Query** – Data cleaning and transformation  
 - **Pivot Tables & Pivot Charts** – Aggregation and analysis  
@@ -23,7 +23,7 @@ This project delivers an in-depth analysis of a global retail company’s sales 
 
 ---
 
-## Dataset Overview
+### Dataset Overview
 The dataset consists of multiple structured tables, including:
 
 - **Territory Data**: Sales, freight cost, number of orders by country and region  
@@ -32,19 +32,19 @@ The dataset consists of multiple structured tables, including:
 
 ---
 
-## Methodology
+### Methodology
 
 ### Data Cleaning & Transformation
 - Removed duplicates and handled missing values using Power Query  
 - Standardized date formats, country names, and categorical fields  
 - Created calculated columns where necessary for analysis  
 
-### Data Modeling
+#### Data Modeling
 - Structured data into related tables using Excel Tables  
 - Established logical relationships through consistent keys  
 - Optimized data layout for efficient pivot table analysis  
 
-### Dashboard & Visualization
+#### Dashboard & Visualization
 - KPI cards for key metrics (Total Sales, Orders, Customers, Products)  
 - Pivot charts (bar, column, and pie charts) for comparisons  
 - Conditional formatting to highlight performance trends  
@@ -52,16 +52,16 @@ The dataset consists of multiple structured tables, including:
 
 ---
 
-## Key Insights
+### Key Insights
 
-### Territory Overview
+#### Territory Overview
 - **Top Sales Country**: United States  
 - **Lowest Sales Country**: Canada  
 - **Highest Freight Cost Region**: Europe  
 - **Most Orders Recorded**: United States  
 - **Coverage**: Hundreds of cities across multiple countries  
 
-### Customer Overview
+#### Customer Overview
 - **Total Sales**: $22M  
 - **Total Customers**: 18K  
 - **Gender Distribution**:  
@@ -70,7 +70,7 @@ The dataset consists of multiple structured tables, including:
 - **Marital Status**: Single customers generate marginally higher sales than married customers  
 - **Top Customers**: Jordan Turner, Janet Munoz  
 
-### Sales & Product Overview
+#### Sales & Product Overview
 - **Total Product Cost**: $13M  
 - **Total Products**: 500+  
 - **Top Product Category**: Bikes (majority of total orders)  
@@ -79,7 +79,7 @@ The dataset consists of multiple structured tables, including:
 
 ---
 
-## Recommendations
+### Recommendations
 1. **Strengthen High-Performing Markets**  
    Allocate more resources and marketing efforts to the United States and Australia  
 
